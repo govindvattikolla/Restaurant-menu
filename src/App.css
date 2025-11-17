@@ -25,6 +25,9 @@ body {
   align-items: center;
   padding: 12px 15px;
   background-color: #ffffff;
+   position: sticky;
+  top: 0;
+  z-index: 1000;
 }
 
 .menu-header img {
@@ -69,12 +72,15 @@ body {
 .menu-tabs {
   display: flex;
   gap: 12px;
-  padding: 15px 20px;
+  padding: 10px 15px;
   background-color: #802319;
   overflow-x: auto;
   scroll-behavior: smooth;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
+   position: sticky;
+  top: 67px;
+  z-index: 1000;
 }
 
 .menu-tabs::-webkit-scrollbar { display: none; }
@@ -213,6 +219,7 @@ body {
   .menu-header {
     max-width: 1200px;
     margin: 0 auto;
+
   }
 }
 
