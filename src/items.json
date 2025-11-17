@@ -1,0 +1,468 @@
+{
+  "menu": [
+    {
+      "category": "Non-Veg Items",
+      "items": [
+        {
+          "id": "NV-PUL-001",
+          "name": "Dupudupothu Pulav",
+          "price": 599,
+          "type": "non-veg",
+          "description": "A spicy and flavorful pulav prepared with special aromatic masala.",
+          "image": "https://i.ytimg.com/vi/f2JbygcZxlQ/sddefault.jpg",
+          "timeMinutes": 25,
+          "rating": 4.8
+        },
+        {
+          "id": "NV-PUL-002",
+          "name": "Natukoddi Pulav",
+          "price": 449,
+          "type": "non-veg",
+          "description": "Traditional country chicken pulav cooked with rich spices.",
+          "image": "https://b.zmtcdn.com/data/pictures/chains/9/19456749/75fd99b38efb490e2d784302ab4dbda1.jpg",
+          "timeMinutes": 30,
+          "rating": 4.7
+        },
+        {
+          "id": "NV-PUL-003",
+          "name": "Chicken Pulav",
+          "price": 349,
+          "type": "non-veg",
+          "description": "Classic chicken pulav with blended spices and long-grain rice.",
+          "image": "https://www.funfoodfrolic.com/wp-content/uploads/2020/07/Chicken-Pulao-Thumbnail.jpg",
+          "timeMinutes": 25,
+          "rating": 4.6
+        },
+        {
+          "id": "NV-PUL-004",
+          "name": "Prawn Pulav",
+          "price": 399,
+          "type": "non-veg",
+          "description": "A flavorful prawn pulav cooked with fresh prawns and masala.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEy56ZeBrp5S6p_tKmU1yEUlVe3p82pZLnw&s",
+          "timeMinutes": 30,
+          "rating": 4.7
+        },
+        {
+          "id": "NV-PUL-005",
+          "name": "Non-Veg Mixed Pulav",
+          "price": 499,
+          "type": "non-veg",
+          "description": "A combination pulav made with chicken, egg and special masala.",
+          "image": "https://i0.wp.com/foodtrails25.com/wp-content/uploads/2019/04/img_5872_ezy_watermark_16-04-2019_12-28-03am.jpg?fit=1429%2C1067&ssl=1",
+          "timeMinutes": 35,
+          "rating": 4.8
+        },
+        {
+          "id": "NV-PUL-006",
+          "name": "Mutton Kheema Pulav",
+          "price": 549,
+          "type": "non-veg",
+          "description": "Mutton kheema cooked with rice and aromatic spices.",
+          "image": "https://notoutofthebox.in/wp-content/uploads/2018/06/kp1.jpg",
+          "timeMinutes": 30,
+          "rating": 4.7
+        }
+      ]
+    },
+    {
+      "category": "Fried Rice",
+      "items": [
+        {
+          "id": "FR-001",
+          "name": "Chicken Fried Rice",
+          "price": 249,
+          "type": "non-veg",
+          "description": "Classic Indo-Chinese chicken fried rice with veggies.",
+          "image": "https://iamhomesteader.com/wp-content/uploads/2025/05/Bang-Bang-Chicken-Fried-Rice-2.jpg",
+          "timeMinutes": 20,
+          "rating": 4.5
+        },
+        {
+          "id": "FR-002",
+          "name": "Egg Fried Rice",
+          "price": 199,
+          "type": "non-veg",
+          "description": "Egg fried rice tossed with vegetables and light sauces.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxF7j3jLduNXcPlue3b9mUWTFDmZEX1t9ktA&s",
+          "timeMinutes": 15,
+          "rating": 4.4
+        },
+        {
+          "id": "FR-003",
+          "name": "Veg Fried Rice",
+          "price": 199,
+          "type": "veg",
+          "description": "Vegetable fried rice made with seasonal vegetables.",
+          "image": "https://www.kannammacooks.com/wp-content/uploads/schezwan-veg-fried-rice-1.jpg",
+          "timeMinutes": 15,
+          "rating": 4.4
+        },
+        {
+          "id": "FR-004",
+          "name": "Mixed Non-Veg Fried Rice",
+          "price": 299,
+          "type": "non-veg",
+          "description": "Mixed fried rice with chicken, egg and prawns.",
+          "image": "https://i.ytimg.com/vi/iIvz3PtV6_8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBe76In2quyAsoW_jaX8gyXHw1Dow",
+          "timeMinutes": 20,
+          "rating": 4.6
+        },
+        {
+          "id": "FR-005",
+          "name": "White Rice",
+          "price": 89,
+          "type": "veg",
+          "description": "Steamed plain white rice.",
+          "image": "https://www.lemonblossoms.com/wp-content/uploads/2019/11/How-To-Cook-White-Rice-S1-1.jpg",
+          "timeMinutes": 5,
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "category": "Non-Veg Curries",
+      "items": [
+        {
+          "id": "NVC-001",
+          "name": "Chepala Pulusu",
+          "price": 199,
+          "type": "non-veg",
+          "description": "Tangy fish curry cooked in tamarind-based gravy.",
+          "image": "https://vismaifood.com/storage/app/uploads/public/464/268/b29/thumb__700_0_0_0_auto.jpg",
+          "timeMinutes": 18,
+          "rating": 4.5
+        },
+        {
+          "id": "NVC-002",
+          "name": "Natukodi Curry",
+          "price": 349,
+          "type": "non-veg",
+          "description": "Country chicken curry simmered in rich spices.",
+          "image": "https://vismaifood.com/storage/app/uploads/public/01b/0b1/a09/thumb__700_0_0_0_auto.jpg",
+          "timeMinutes": 30,
+          "rating": 4.7
+        },
+        {
+          "id": "NVC-003",
+          "name": "Crab Curry",
+          "price": 349,
+          "type": "non-veg",
+          "description": "Fresh crab cooked in a robust coastal masala.",
+          "image": "https://s3-ap-south-1.amazonaws.com/betterbutterbucket-silver/swathijoshnaa-sathish1544809281.jpeg",
+          "timeMinutes": 25,
+          "rating": 4.6
+        },
+        {
+          "id": "NVC-004",
+          "name": "Mutton Curry",
+          "price": 349,
+          "type": "non-veg",
+          "description": "Tender mutton pieces cooked in spicy gravy.",
+          "image": "https://www.licious.in/blog/wp-content/uploads/2023/02/shutterstock_2205168763-600x406.jpg",
+          "timeMinutes": 35,
+          "rating": 4.6
+        },
+        {
+          "id": "NVC-005",
+          "name": "Chicken Curry",
+          "price": 249,
+          "type": "non-veg",
+          "description": "Homestyle chicken curry with aromatic spices.",
+          "image": "https://kitchenofdebjani.com/wp-content/uploads/2023/04/easy-indian-chicken-curry-Recipe-for-beginners-Debjanir-rannaghar.jpg",
+          "timeMinutes": 22,
+          "rating": 4.4
+        },
+        {
+          "id": "NVC-006",
+          "name": "Prawn Curry",
+          "price": 349,
+          "type": "non-veg",
+          "description": "Prawns cooked in a coconut-based curry.",
+          "image": "https://www.whiskaffair.com/wp-content/uploads/2023/02/Shrimp-Masala-2-3.jpg",
+          "timeMinutes": 20,
+          "rating": 4.6
+        },
+        {
+          "id": "NVC-007",
+          "name": "Liver Fry",
+          "price": 199,
+          "type": "non-veg",
+          "description": "Spicy and tangy liver fry with curry leaves.",
+          "image": "https://i.ytimg.com/vi/piy-55EkvRI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6NiDM1sl4_w3BziMRFuM3TiosdA",
+          "timeMinutes": 15,
+          "rating": 4.2
+        },
+        {
+          "id": "NVC-008",
+          "name": "Egg Curry",
+          "price": 199,
+          "type": "non-veg",
+          "description": "Boiled eggs simmered in thick masala gravy.",
+          "image": "https://www.kitchensanctuary.com/wp-content/uploads/2025/02/Egg-Curry-Square-FS.jpg",
+          "timeMinutes": 12,
+          "rating": 4.3
+        },
+        {
+          "id": "NVC-009",
+          "name": "Butter Chicken",
+          "price": 310,
+          "type": "non-veg",
+          "description": "Creamy and buttery North Indian chicken curry.",
+          "image": "https://static01.nyt.com/images/2024/10/29/multimedia/Butter-Chickenrex-tbvz/Butter-Chickenrex-tbvz-mediumSquareAt3X.jpg",
+          "timeMinutes": 25,
+          "rating": 4.7
+        }
+      ]
+    },
+    {
+      "category": "Veg Curries",
+      "items": [
+        {
+          "id": "VC-001",
+          "name": "Paneer Butter Masala",
+          "price": 249,
+          "type": "veg",
+          "description": "Soft paneer cubes in rich buttery tomato gravy.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2GVSX6yMjCLHtHBaQwyqjUw1rkC1sF9H8g&s",
+          "timeMinutes": 20,
+          "rating": 4.6
+        },
+        {
+          "id": "VC-002",
+          "name": "Mixed Veg Curry",
+          "price": 210,
+          "type": "veg",
+          "description": "Seasonal vegetables cooked in a homely masala.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhFmMGJlfxGvp0zGmsGjUijCWxynckzwvYfQ&s",
+          "timeMinutes": 18,
+          "rating": 4.3
+        },
+        {
+          "id": "VC-003",
+          "name": "Dal Tadaka",
+          "price": 179,
+          "type": "veg",
+          "description": "Yellow lentils tempered with ghee and spices.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79jMUn9lHn6-reuO3-d5DtrG-_1yTi0xJvA&s",
+          "timeMinutes": 15,
+          "rating": 4.4
+        },
+        {
+          "id": "VC-004",
+          "name": "Sambar",
+          "price": 40,
+          "type": "veg",
+          "description": "Classic South Indian sambar made with lentils and vegetables.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/01/South-Indian-Sambar-Recipe.jpg",
+          "rating": 4.2
+        },
+        {
+          "id": "VC-005",
+          "name": "Red Curd",
+          "price": 200,
+          "type": "veg",
+          "description": "Fermented red curd served chilled.",
+          "image": "https://www.thespruceeats.com/thmb/Br1Owsn_c6BrD1KCLhfXguw66Cg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chinese-fermented-bean-curd--fu-ru--496576886-5c5e4e0846e0fb000127c877.jpg",
+          "timeMinutes": 5,
+          "rating": 4.1
+        }
+      ]
+    },
+    {
+      "category": "Breads",
+      "items": [
+        {
+          "id": "BR-001",
+          "name": "Butter Naan",
+          "price": 50,
+          "type": "veg",
+          "description": "Soft tandoori naan brushed with butter.",
+          "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan.jpg",
+          "timeMinutes": 8,
+          "rating": 4.4
+        },
+        {
+          "id": "BR-002",
+          "name": "Plain Naan",
+          "price": 45,
+          "type": "veg",
+          "description": "Classic plain tandoori naan.",
+          "image": "https://blog.swiggy.com/wp-content/uploads/2024/06/Image-1_Plain-Naan-Bread-1024x538.png",
+          "timeMinutes": 6,
+          "rating": 4.3
+        },
+        {
+          "id": "BR-003",
+          "name": "Tandoori Roti",
+          "price": 40,
+          "type": "veg",
+          "description": "Whole wheat roti cooked in tandoor.",
+          "image": "https://static.toiimg.com/photo/75542650.cms",
+          "timeMinutes": 6,
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "category": "Veg Starters",
+      "items": [
+        {
+          "id": "VS-001",
+          "name": "Paneer Tikka",
+          "price": 379,
+          "type": "veg",
+          "description": "Grilled paneer cubes marinated in spices.",
+          "image": "https://www.cookwithmanali.com/wp-content/uploads/2015/07/Restaurant-Style-Recipe-Paneer-Tikka.jpg",
+          "timeMinutes": 20,
+          "rating": 4.6
+        },
+        {
+          "id": "VS-002",
+          "name": "Tandoori Gobi",
+          "price": 319,
+          "type": "veg",
+          "description": "Cauliflower florets marinated and roasted in tandoor.",
+          "image": "https://www.chefhasti.com/wp-content/uploads/2020/09/tandoori-gobi-gobi-tikka.jpg",
+          "timeMinutes": 18,
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "category": "Non-Veg Starters",
+      "items": [
+        {
+          "id": "NVS-001",
+          "name": "Apollo Fish",
+          "price": 389,
+          "type": "non-veg",
+          "description": "Crispy fried fish tossed in a spicy sweet sauce.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbl6sOV1ZXmTUDWAToDqPodH5oFfYLRE0vcg&s",
+          "timeMinutes": 18,
+          "rating": 4.5
+        },
+        {
+          "id": "NVS-002",
+          "name": "Loose Prawns",
+          "price": 399,
+          "type": "non-veg",
+          "description": "Seasoned prawns shallow fried until crisp.",
+          "image": "https://m.media-amazon.com/images/X/bxt1/M/kbxt1RoryDQqcZJ._SL828_QL90_FMwebp_.jpg",
+          "timeMinutes": 15,
+          "rating": 4.6
+        },
+        {
+          "id": "NVS-003",
+          "name": "Chilli Chicken",
+          "price": 349,
+          "type": "non-veg",
+          "description": "Spicy Indo-Chinese chilli chicken with peppers.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRXJoX1SPrsWOmLCWhA_xbfyT6u7hL-HtuA&s",
+          "timeMinutes": 18,
+          "rating": 4.5
+        },
+        {
+          "id": "NVS-004",
+          "name": "Chicken 65",
+          "price": 349,
+          "type": "non-veg",
+          "description": "Deep-fried spicy chicken starter.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/chicken-65-restaurant-style.jpg",
+          "timeMinutes": 18,
+          "rating": 4.4
+        },
+        {
+          "id": "NVS-005",
+          "name": "Chicken Lollipop",
+          "price": 379,
+          "type": "non-veg",
+          "description": "Fried chicken wings shaped as lollipops.",
+          "image": "https://www.cookwithkushi.com/wp-content/uploads/2022/01/best_chicken_lollipop_drums_of_chicken.jpg",
+          "timeMinutes": 20,
+          "rating": 4.5
+        },
+        {
+          "id": "NVS-006",
+          "name": "Butter Garlic Prawn",
+          "price": 399,
+          "type": "non-veg",
+          "description": "Prawns tossed in butter garlic sauce.",
+          "image": "https://headbangerskitchen.com/wp-content/uploads/2023/01/BGPRAWNS-Vertical.jpg",
+          "timeMinutes": 18,
+          "rating": 4.7
+        },
+        {
+          "id": "NVS-007",
+          "name": "Tandoori Fish",
+          "price": 389,
+          "type": "non-veg",
+          "description": "Tandoor-roasted fish marinated with spices.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7u7fTm8HqwI-AgWjEvMZb6J2Zq9ygVsZkIA&s",
+          "timeMinutes": 20,
+          "rating": 4.5
+        },
+        {
+          "id": "NVS-008",
+          "name": "Tandoori Prawn",
+          "price": 399,
+          "type": "non-veg",
+          "description": "Marinated prawns grilled in tandoor.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2025/02/tandoori-shrimp-recipe.jpg",
+          "timeMinutes": 18,
+          "rating": 4.6
+        },
+        {
+          "id": "NVS-009",
+          "name": "Tandoori Chicken",
+          "price": 599,
+          "type": "non-veg",
+          "description": "Whole chicken pieces roasted in tandoor.",
+          "image": "https://sinfullyspicy.com/wp-content/uploads/2014/07/1200-by-1200-images-2.jpg",
+          "timeMinutes": 35,
+          "rating": 4.7
+        },
+        {
+          "id": "NVS-010",
+          "name": "Chicken Tikka",
+          "price": 389,
+          "type": "non-veg",
+          "description": "Boneless chicken cubes marinated and grilled.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ1fHA33FNRQNHUveifYriJS1H0AgEpGP4Cg&s",
+          "timeMinutes": 22,
+          "rating": 4.6
+        },
+        {
+          "id": "NVS-011",
+          "name": "Malai Tikka",
+          "price": 379,
+          "type": "non-veg",
+          "description": "Creamy & mildly spiced chicken tikka.",
+          "image": "https://www.chilitochoc.com/wp-content/uploads/2022/11/chicken-malai-boti-with-green-chutney-1.jpg",
+          "timeMinutes": 22,
+          "rating": 4.5
+        },
+        {
+          "id": "NVS-012",
+          "name": "Tangdi Kabab",
+          "price": 379,
+          "type": "non-veg",
+          "description": "Juicy chicken drumsticks seasoned and roasted.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkQABoULNFQA8GD2N2OxLRy7V2u0lBv7QZw&s",
+          "timeMinutes": 25,
+          "rating": 4.5
+        },
+        {
+          "id": "NVS-013",
+          "name": "Hariyali Kabab",
+          "price": 379,
+          "type": "non-veg",
+          "description": "Green-marinated kababs cooked to perfection.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5m20a32Z5YMS67qSmcDADU0lInkq7U2ssLA&s",
+          "timeMinutes": 22,
+          "rating": 4.5
+        }
+      ]
+    }
+  ]
+}
