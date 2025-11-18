@@ -14,7 +14,7 @@ body {
 /* Menu Container */
 .menu-container {
   min-height: 100vh;
-  background-color: #EDC188;
+  background-color: #FFF;
   padding-bottom: 20px;
 }
 
@@ -116,10 +116,10 @@ body {
 
 /* CARD */
 .menu-card {
-  background-color: #ffffff;
+  background-color: #e2cfcf;
   border-radius: 16px;
   overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.22);
   cursor: pointer;
   transition: 0.3s ease;
 }
@@ -205,6 +205,9 @@ body {
   .menu-img {
     height: 115px;
   }
+   .menu-tabs{
+    margin-top: 0%;
+   }
 }
 
 /* Tablets + Desktop */
