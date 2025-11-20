@@ -1,7 +1,7 @@
 import React from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import menuData from "../items.json";
-import "./itemPage.css";
+import "./ItemPage.css";
 
 export default function ItemPage() {
   const { id } = useParams();
