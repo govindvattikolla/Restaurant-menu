@@ -3,11 +3,10 @@ import menuData from "../items.json";
 import "./menu.css";
 import logo from "../assets/image.png";
 import { Link } from "react-router-dom";
-
-
+import { useCart } from "../context/CartContext";
 
 export default function Menu() {
-  
+  const { addToCart } = useCart();
 
   const [activeCategory, setActiveCategory] = useState("All");
   const [searchText, setSearchText] = useState("");
@@ -24,6 +23,7 @@ export default function Menu() {
       ? allItems
       : menuData.menu.find((c) => c.category === activeCategory)?.items || [];
 
+  // Apply Search
   if (searchText.trim() !== "") {
     const keyword = searchText.toLowerCase();
     itemsToShow = itemsToShow.filter((item) =>
@@ -36,16 +36,12 @@ export default function Menu() {
   const startIndex = (currentPage - 1) * itemsPerPage;
   const currentItems = itemsToShow.slice(startIndex, startIndex + itemsPerPage);
 
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [activeCategory, searchText]);
 
   useEffect(() => {
-  setCurrentPage(1);
-}, [activeCategory, searchText]);
-
-  useEffect(() => {
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth",
-    });
+    window.scrollTo({ top: 0, behavior: "smooth" });
   }, [currentPage]);
 
   return (
@@ -69,7 +65,7 @@ export default function Menu() {
           🔍︎
         </button>
 
-        
+        <Link to="/cart" className="cart-icon">🛒</Link>
       </div>
 
       {/* Tabs */}
@@ -85,33 +81,34 @@ export default function Menu() {
         ))}
       </div>
 
+      {/* Main Grid */}
       <div className="menu-grid">
-  {currentItems.length > 0 ? (
-    currentItems.map((item) => (
-      <Link 
-        to={`/item/${item.id}`} 
-        key={item.id} 
-        className="menu-card"
-      >
-        <img src={item.image} alt={item.name} className="menu-img" />
+        {currentItems.length > 0 ? (
+          currentItems.map((item) => (
+            <div key={item.id} className="menu-card">
 
-        <div className="menu-card-body">
-          <h3 className="menu-item-name">{item.name}</h3>
+              <Link to={`/item/${item.id}`}>
+                <img src={item.image} alt={item.name} className="menu-img" />
+              </Link>
 
-          <div className="menu-info-row">
-            <span className="menu-info">⏱ {item.timeMinutes} min</span>
-            <span className="menu-info">⭐ {item.rating}</span>
-          </div>
+              <div className="menu-card-body">
+                <h3 className="menu-item-name">{item.name}</h3>
 
-          <p className="menu-price">₹{item.price}</p>
-        </div>
-      </Link>
-    ))
-  ) : (
-    <p className="no-results">No items found</p>
-  )}
-</div>
+                <div className="menu-info-row">
+                  <span className="menu-info">⏱ {item.timeMinutes} min</span>
+                  <span className="menu-info">⭐ {item.rating}</span>
+                </div>
 
+                <p className="menu-price">₹{item.price}</p>
+              </div>
+
+              
+            </div>
+          ))
+        ) : (
+          <p className="no-results">No items found</p>
+        )}
+      </div>
 
       {/* Pagination */}
       {itemsToShow.length > itemsPerPage && (
@@ -147,11 +144,15 @@ export default function Menu() {
       )}
 
       {/* Feedback Button */}
-<div className="feedback-wrapper">
-  <a href="https://www.google.com/maps/place/Vemparaju+Gari+Vantillu/@17.7253856,83.3143429,17z/data=!4m16!1m7!3m6!1s0x3a3943002bc4cb87:0x5aa577288c3da841!2sVemparaju+Gari+Vantillu!8m2!3d17.7253805!4d83.3169178!16s%2Fg%2F11zjfwnvf8!3m7!1s0x3a3943002bc4cb87:0x5aa577288c3da841!8m2!3d17.7253805!4d83.3169178!9m1!1b1!16s%2Fg%2F11zjfwnvf8?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D" target="_blank" className="feedback-btn">
-    Drop Your Feedback
-  </a>
-</div>
+      <div className="feedback-wrapper">
+        <a
+          href="https://www.google.com/maps/place/Vemparaju+Gari+Vantillu/"
+          target="_blank"
+          className="feedback-btn"
+        >
+          Drop Your Feedback
+        </a>
+      </div>
     </div>
   );
 }
