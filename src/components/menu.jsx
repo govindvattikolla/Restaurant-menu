@@ -87,9 +87,9 @@ export default function Menu() {
           currentItems.map((item) => (
             <div key={item.id} className="menu-card">
 
-              <Link to={`/item/${item.id}`}>
+              <Link to={`/item/${item.id}`} className="menu-card-link">
                 <img src={item.image} alt={item.name} className="menu-img" />
-              </Link>
+             
 
               <div className="menu-card-body">
                 <h3 className="menu-item-name">{item.name}</h3>
@@ -101,6 +101,7 @@ export default function Menu() {
 
                 <p className="menu-price">₹{item.price}</p>
               </div>
+               </Link>
 
               
             </div>
@@ -146,7 +147,7 @@ export default function Menu() {
       {/* Feedback Button */}
       <div className="feedback-wrapper">
         <a
-          href="https://www.google.com/maps/place/Vemparaju+Gari+Vantillu/"
+          href="https://www.google.com/maps/place/Vemparaju+Gari+Vantillu/@17.7253856,83.3143429,17z/data=!4m8!3m7!1s0x3a3943002bc4cb87:0x5aa577288c3da841!8m2!3d17.7253805!4d83.3169178!9m1!1b1!16s%2Fg%2F11zjfwnvf8?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D"
           target="_blank"
           className="feedback-btn"
         >
