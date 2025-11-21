@@ -45,8 +45,10 @@ export default function Menu() {
   }, [currentPage]);
 
   return (
+    
     <div className="menu-container">
-     
+      <div class="fixed-bg"></div>
+  
       <div className="menu-header">
         <img src={logo} alt="logo" />
 
