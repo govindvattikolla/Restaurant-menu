@@ -23,7 +23,7 @@ export default function Menu() {
       ? allItems
       : menuData.menu.find((c) => c.category === activeCategory)?.items || [];
 
-  // Apply Search
+
   if (searchText.trim() !== "") {
     const keyword = searchText.toLowerCase();
     itemsToShow = itemsToShow.filter((item) =>
@@ -46,7 +46,7 @@ export default function Menu() {
 
   return (
     <div className="menu-container">
-      {/* Header */}
+     
       <div className="menu-header">
         <img src={logo} alt="logo" />
 
@@ -144,7 +144,7 @@ export default function Menu() {
         </div>
       )}
 
-      {/* Feedback Button */}
+      
       <div className="feedback-wrapper">
         <a
           href="https://www.google.com/maps/place/Vemparaju+Gari+Vantillu/@17.7253856,83.3143429,17z/data=!4m8!3m7!1s0x3a3943002bc4cb87:0x5aa577288c3da841!8m2!3d17.7253805!4d83.3169178!9m1!1b1!16s%2Fg%2F11zjfwnvf8?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D"
