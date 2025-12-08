@@ -25,7 +25,7 @@ export default function Menu() {
 
 
   if (searchText.trim() !== "") {
-    const keyword = searchText.toLowerCase();
+    const keyword = searchText.toLowerCase(); 
     itemsToShow = itemsToShow.filter((item) =>
       item.name.toLowerCase().includes(keyword)
     );

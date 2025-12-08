@@ -13,14 +13,14 @@
   left: 0;
   width: 100%;
   height: 100vh;
-  background-image: url('../assets/village-feel.jpg');
+  background-image: url('https://i.pinimg.com/736x/ce/e0/5e/cee05e5cb2eac5875a1dcb804614348a.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   z-index: -1;
 }
 
-/* Remove body background to avoid white gaps */
+
 body {
   background: transparent !important;
    -webkit-font-smoothing: antialiased;
@@ -32,6 +32,7 @@ body {
 .menu-container {
   min-height: 100vh;
   /* background-color: #f2f2f2; */
+  max-width: 100%;
   padding-bottom: 20px;
   padding-top: 60px; 
   
@@ -49,6 +50,8 @@ body {
   left: 0;
   width: 100%;
   z-index: 1000;
+  max-width: 100% !important;
+ 
 
 }
 
@@ -100,7 +103,7 @@ body {
   background-color: #802319;
   overflow-x: auto;
   scrollbar-width: none;
-
+  max-width: 100% !important;
   position: sticky;
   top: 60px;   
   z-index: 999;
@@ -367,5 +370,14 @@ body {
 
 .cart-icon:active {
   transform: scale(0.94);
+}
+
+@media(min-width:730px){
+  .menu-tabs{
+    margin-top: 1.9rem !important;
+     position: sticky;
+  top: 90px;   
+  z-index: 999;
+  }
 }
 
