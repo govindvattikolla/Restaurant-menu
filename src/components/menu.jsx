@@ -112,39 +112,42 @@ export default function Menu() {
           <p className="no-results">No items found</p>
         )}
       </div>
+{/* Pagination */}
+{itemsToShow.length > itemsPerPage && (
+  <div className="pagination">
+    <button
+      className="page-btn"
+      disabled={currentPage === 1}
+      onClick={() => setCurrentPage((prev) => prev - 1)}
+    >
+      ◀ Prev
+    </button>
 
-      {/* Pagination */}
-      {itemsToShow.length > itemsPerPage && (
-        <div className="pagination">
-          <button
-            className="page-btn"
-            disabled={currentPage === 1}
-            onClick={() => setCurrentPage((prev) => prev - 1)}
-          >
-            ◀ Prev
-          </button>
+    {/* Scrollable page numbers */}
+    <div className="page-numbers">
+      {[...Array(totalPages)].map((_, index) => (
+        <button
+          key={index}
+          className={`page-number ${
+            currentPage === index + 1 ? "active" : ""
+          }`}
+          onClick={() => setCurrentPage(index + 1)}
+        >
+          {index + 1}
+        </button>
+      ))}
+    </div>
 
-          {[...Array(totalPages)].map((_, index) => (
-            <button
-              key={index}
-              className={`page-number ${
-                currentPage === index + 1 ? "active" : ""
-              }`}
-              onClick={() => setCurrentPage(index + 1)}
-            >
-              {index + 1}
-            </button>
-          ))}
+    <button
+      className="page-btn"
+      disabled={currentPage === totalPages}
+      onClick={() => setCurrentPage((prev) => prev + 1)}
+    >
+      ▶ Next
+    </button>
+  </div>
+)}
 
-          <button
-            className="page-btn"
-            disabled={currentPage === totalPages}
-            onClick={() => setCurrentPage((prev) => prev + 1)}
-          >
-            ▶ Next
-          </button>
-        </div>
-      )}
 
       
       <div className="feedback-wrapper">
