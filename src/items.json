@@ -9,7 +9,7 @@
           "price": 599,
           "type": "non-veg",
           "description": "Special spicy pulav prepared with traditional aromatic masala.",
-          "image": "/images/test-img1.JPG",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1766834365/Dupudupothu-pulav_whgzll.png",
           "timeMinutes": 30,
           "rating": 4.8
         },
