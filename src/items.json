@@ -39,7 +39,7 @@
           "price": 399,
           "type": "non-veg",
           "description": "Juicy prawns cooked with aromatic rice and spices.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767680687/prawn_pulav_fyxq7c.jpg",
           "timeMinutes": 25,
           "rating": 4.6
         },
@@ -49,7 +49,7 @@
           "price": 549,
           "type": "non-veg",
           "description": "Slow-cooked mutton pulav with rich traditional spices.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767681066/Mutton_Pulav_qtzapz.jpg",
           "timeMinutes": 35,
           "rating": 4.7
         },
@@ -74,7 +74,7 @@
           "price": 249,
           "type": "veg",
           "description": "Classic vegetable biryani cooked with fragrant rice.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767681269/Veg_Biryani_ovfzic.jpg",
           "timeMinutes": 25,
           "rating": 4.2
         },
@@ -84,7 +84,7 @@
           "price": 299,
           "type": "veg",
           "description": "Rich biryani made with cashews and paneer.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767681066/Kaju_Paneer_Biryani_yx0gwg.jpg",
           "timeMinutes": 30,
           "rating": 4.4
         },
@@ -94,7 +94,7 @@
           "price": 279,
           "type": "veg",
           "description": "Soft paneer cubes cooked in aromatic biryani spices.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767681067/Paneer_Biryani_lcrmiu.jpg",
           "timeMinutes": 30,
           "rating": 4.3
         },
@@ -104,7 +104,7 @@
           "price": 249,
           "type": "veg",
           "description": "Mushrooms cooked with basmati rice and spices.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767681067/Mushroom_Biryani_rbrxhl.jpg",
           "timeMinutes": 25,
           "rating": 4.2
         },
@@ -114,7 +114,7 @@
           "price": 259,
           "type": "veg",
           "description": "Tangy gongura-flavored traditional biryani.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682059/Gongura_Biryani_h5bkcc.jpg",
           "timeMinutes": 25,
           "rating": 4.1
         },
@@ -124,7 +124,7 @@
           "price": 279,
           "type": "veg",
           "description": "Spicy Andhra-style mango pickle biryani.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682058/Avakai_Biryani_prnor4.jpg",
           "timeMinutes": 25,
           "rating": 4.3
         },
@@ -134,7 +134,7 @@
           "price": 319,
           "type": "veg",
           "description": "Traditional ulavacharu flavored veg pulav.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682061/Ulavacharu_Veg_Pulav_yk2wan.jpg",
           "timeMinutes": 30,
           "rating": 4.4
         },
@@ -144,7 +144,7 @@
           "price": 349,
           "type": "non-veg",
           "description": "Chicken pulav cooked with rich ulavacharu gravy.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682061/Ulavacharu_Chicken_Pulav_rtatsm.jpg",
           "timeMinutes": 35,
           "rating": 4.6
         },
@@ -154,7 +154,7 @@
           "price": 599,
           "type": "non-veg",
           "description": "Minced meat pulav with authentic ulavacharu flavor.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682061/Ulavacharu_Keema_Pulav_z4xubr.jpg",
           "timeMinutes": 40,
           "rating": 4.8
         }
@@ -169,7 +169,7 @@
           "price": 249,
           "type": "non-veg",
           "description": "Classic chicken fried rice with sauces and veggies.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682058/Chicken_Fried_Rice_xiflqj.jpg",
           "timeMinutes": 20,
           "rating": 4.4
         },
@@ -179,7 +179,7 @@
           "price": 220,
           "type": "non-veg",
           "description": "Egg fried rice tossed with sauces.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682059/Egg_Fried_Rice_aaivuz.jpg",
           "timeMinutes": 20,
           "rating": 4.2
         },
@@ -189,7 +189,7 @@
           "price": 199,
           "type": "veg",
           "description": "Vegetable fried rice with soy sauce.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682065/Veg_Fried_Rice_smofih.jpg",
           "timeMinutes": 20,
           "rating": 4.1
         },
@@ -199,7 +199,7 @@
           "price": 299,
           "type": "veg",
           "description": "Fried rice cooked with paneer cubes.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682061/Paneer_Fried_Rice_xsgd7c.jpg",
           "timeMinutes": 20,
           "rating": 4.3
         },
@@ -209,7 +209,7 @@
           "price": 339,
           "type": "veg",
           "description": "Premium fried rice with cashew and paneer.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682060/Kaju_Paneer_Fried_Rice_vz9u93.jpg",
           "timeMinutes": 25,
           "rating": 4.5
         },
@@ -219,7 +219,7 @@
           "price": 249,
           "type": "veg",
           "description": "Sweet corn fried rice.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682059/Corn_Fried_Rice_xgwih8.jpg",
           "timeMinutes": 20,
           "rating": 4.2
         },
@@ -229,7 +229,7 @@
           "price": 339,
           "type": "non-veg",
           "description": "Fried rice with mixed non-veg items.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682060/Mixed_Non-Veg_Fried_Rice_cvu0bv.jpg",
           "timeMinutes": 25,
           "rating": 4.6
         }
@@ -244,7 +244,7 @@
           "price": 299,
           "type": "veg",
           "description": "Soft noodles with vegetables.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682058/Veg_Soft_Noodles_tslqli.jpg",
           "timeMinutes": 20,
           "rating": 4.1
         },
@@ -254,7 +254,7 @@
           "price": 299,
           "type": "veg",
           "description": "Classic hakka-style veg noodles.",
-          "image": "",
+          "image": "https://i.pinimg.com/736x/45/d1/be/45d1be3f3cca22fe4ab70b1e98151418.jpg",
           "timeMinutes": 20,
           "rating": 4.2
         },
@@ -264,7 +264,7 @@
           "price": 309,
           "type": "non-veg",
           "description": "Egg noodles tossed in sauces.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682059/Egg_Noodles_qvpwu7.jpg",
           "timeMinutes": 20,
           "rating": 4.3
         },
@@ -274,7 +274,7 @@
           "price": 319,
           "type": "non-veg",
           "description": "Chicken noodles with Chinese flavors.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682058/Chicken_Noodles_nviwjb.jpg",
           "timeMinutes": 25,
           "rating": 4.4
         },
@@ -284,7 +284,7 @@
           "price": 329,
           "type": "non-veg",
           "description": "Noodles with mixed non-veg toppings.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682061/Mixed_Non-Veg_Noodles_vbffaw.jpg",
           "timeMinutes": 25,
           "rating": 4.5
         },
@@ -294,7 +294,7 @@
           "price": 299,
           "type": "veg",
           "description": "Singapore-style spicy veg noodles.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682061/Singapore_Veg_Noodles_hy1sny.jpg",
           "timeMinutes": 25,
           "rating": 4.3
         },
@@ -304,7 +304,7 @@
           "price": 329,
           "type": "non-veg",
           "description": "Singapore-style spicy non-veg noodles.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682061/Singapore_Non-Veg_Noodles_uep2xl.jpg",
           "timeMinutes": 30,
           "rating": 4.6
         }
@@ -319,7 +319,7 @@
           "price": "",
           "type": "veg",
           "description": "Traditional South Indian dal.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682059/Dall_okf9ii.jpg",
           "timeMinutes": 15,
           "rating": 4.2
         },
@@ -329,7 +329,7 @@
           "price": "",
           "type": "veg",
           "description": "Classic South Indian sambar.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682061/Sambar_o6wem3.jpg",
           "timeMinutes": 15,
           "rating": 4.3
         },
@@ -339,7 +339,7 @@
           "price": "",
           "type": "veg",
           "description": "Peppery tamarind rasam.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682060/Rasam_hegqt2.jpg",
           "timeMinutes": 10,
           "rating": 4.1
         },
@@ -349,7 +349,7 @@
           "price": "",
           "type": "veg",
           "description": "Brinjal based South Indian curry.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682059/Gurthuvankaya_Curry_fl7fqd.jpg",
           "timeMinutes": 20,
           "rating": 4.2
         },
@@ -359,7 +359,7 @@
           "price": "",
           "type": "veg",
           "description": "South Indian style flavoured rice.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682059/Flavoured_Rice_kcswrp.jpg",
           "timeMinutes": 20,
           "rating": 4.0
         },
@@ -369,7 +369,7 @@
           "price": "",
           "type": "veg",
           "description": "Drumstick cooked with tomato gravy.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767682059/Drumstick_Tomato_Curry_nufmja.jpg",
           "timeMinutes": 20,
           "rating": 4.1
         },
@@ -379,7 +379,7 @@
           "price": 0,
           "type": "veg",
           "description": "Soya milk maker curry.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690985/Milk_Maker_Curry_pmzach.jpg",
           "timeMinutes": 20,
           "rating": 4.0
         },
@@ -389,7 +389,7 @@
           "price": "",
           "type": "veg",
           "description": "Crispy okra fry.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690934/Ladies_Finger_Fry_ppru3a.jpg",
           "timeMinutes": 15,
           "rating": 4.2
         },
@@ -399,7 +399,7 @@
           "price": "",
           "type": "veg",
           "description": "Spiced red curd.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690986/Red_Curd_lerbfs.jpg",
           "timeMinutes": 10,
           "rating": 4.1
         }
@@ -414,7 +414,7 @@
           "price": 299,
           "type": "veg",
           "description": "Complete South Indian vegetarian thali.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690986/South_Indian_Thali_bncgal.jpg",
           "timeMinutes": 25,
           "rating": 4.4
         },
@@ -424,7 +424,7 @@
           "price": 360,
           "type": "non-veg",
           "description": "Non-veg thali with curries and egg.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690985/Non-Veg_Thali_uqebjf.jpg",
           "timeMinutes": 30,
           "rating": 4.5
         }
@@ -439,7 +439,7 @@
           "price": 179,
           "type": "veg",
           "description": "Spicy hot and sour soup.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690934/Hot_Sour_Soup_adcjum.jpg",
           "timeMinutes": 10,
           "rating": 4.2
         },
@@ -449,7 +449,7 @@
           "price": 149,
           "type": "veg",
           "description": "Creamy sweet corn soup.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690986/Sweet_Corn_Soup_uplhkw.jpg",
           "timeMinutes": 10,
           "rating": 4.1
         },
@@ -459,7 +459,7 @@
           "price": 179,
           "type": "veg",
           "description": "Chinese style manchow soup.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690985/Manchow_Soup_guoa7z.jpg",
           "timeMinutes": 10,
           "rating": 4.3
         },
@@ -469,7 +469,7 @@
           "price": 149,
           "type": "veg",
           "description": "Light lemon coriander soup.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690985/Lemon_Coriander_Soup_diepoh.jpg",
           "timeMinutes": 10,
           "rating": 4.0
         }
@@ -484,7 +484,7 @@
           "price": 369,
           "type": "non-veg",
           "description": "Spicy chilli chicken starter.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690933/Chilli_Chicken_bbt4ii.jpg",
           "timeMinutes": 20,
           "rating": 4.5
         },
@@ -494,7 +494,7 @@
           "price": 599,
           "type": "non-veg",
           "description": "Classic tandoori chicken.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690986/Tandoori_Chicken_vbnch4.jpg",
           "timeMinutes": 30,
           "rating": 4.6
         },
@@ -504,7 +504,7 @@
           "price": 399,
           "type": "non-veg",
           "description": "Juicy chicken leg kababs.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767696117/kalmi-kabab_jyu77w.jpg",
           "timeMinutes": 25,
           "rating": 4.5
         },
@@ -514,7 +514,7 @@
           "price": 379,
           "type": "non-veg",
           "description": "Spicy tangadi kabab.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690986/Tangadi_Kabab_fp72wi.jpg",
           "timeMinutes": 25,
           "rating": 4.4
         },
@@ -524,7 +524,7 @@
           "price": 389,
           "type": "non-veg",
           "description": "Boneless chicken tikka.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690933/Chicken_Tikka_fglwvp.jpg",
           "timeMinutes": 25,
           "rating": 4.6
         },
@@ -534,7 +534,7 @@
           "price": 379,
           "type": "non-veg",
           "description": "Creamy malai kabab.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690985/Malai_Kabab_gcib0a.jpg",
           "timeMinutes": 25,
           "rating": 4.5
         },
@@ -545,7 +545,7 @@
           "price": 389,
           "type": "veg",
           "description": "Tandoori paneer tikka.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690986/Paneer_Tikka_up9gmn.jpg",
           "timeMinutes": 25,
           "rating": 4.4
         },
@@ -555,7 +555,7 @@
           "price": 269,
           "type": "veg",
           "description": "Grilled broccoli in tandoori style.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767690986/Tandoori_Broccoli_sutio9.jpg",
           "timeMinutes": 20,
           "rating": 4.2
         },
@@ -565,7 +565,7 @@
           "price": 389,
           "type": "veg",
           "description": "Achari flavored paneer tikka.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767696117/Acharya_Paneer_Tikka_adki9x.jpg",
           "timeMinutes": 25,
           "rating": 4.4
         },
@@ -575,7 +575,7 @@
           "price": 289,
           "type": "veg",
           "description": "Tandoori grilled mushrooms.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767696117/Mushroom_Tandoori_pktd4u.jpg",
           "timeMinutes": 20,
           "rating": 4.3
         },
@@ -585,7 +585,7 @@
           "price": 249,
           "type": "veg",
           "description": "Grilled pineapple BBQ style.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767696116/BBQ_Pineapple_m3dsnu.jpg",
           "timeMinutes": 15,
           "rating": 4.1
         },
@@ -595,7 +595,7 @@
           "price": 349,
           "type": "veg",
           "description": "Creamy malai broccoli starter.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767696117/Malai_Broccoli_c02moc.jpg",
           "timeMinutes": 20,
           "rating": 4.3
         },
@@ -605,7 +605,7 @@
           "price": 379,
           "type": "non-veg",
           "description": "Creamy Chilli Garlic kabab.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767696429/Chilli_Garlic_Kabab_ltgxzp.jpg",
           "timeMinutes": 25,
           "rating": 4.5
         },
@@ -615,7 +615,7 @@
           "price": 379,
           "type": "non-veg",
           "description": "Haryali Chicken Tikka.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767696429/Haryali_Chicken_Tikka_zkuget.jpg",
           "timeMinutes": 25,
           "rating": 4.5
         },
@@ -625,7 +625,7 @@
           "price": 389,
           "type": "non-veg",
           "description": "Fish Tikka.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767696429/Fish_Tikka_z08mvs.jpg",
           "timeMinutes": 25,
           "rating": 4.5
         },
@@ -635,7 +635,7 @@
           "price": 399,
           "type": "non-veg",
           "description": "Prawn Tandoori.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767696116/Prawn_Tandoori_w2g219.jpg",
           "timeMinutes": 25,
           "rating": 4.5
         },
@@ -645,7 +645,7 @@
           "price": "",
           "type": "non-veg",
           "description": "Creamy malai kabab.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767696116/Pomfret_Tandoori_Vanjaram_u2q15x.jpg",
           "timeMinutes": 25,
           "rating": 4.5
         },
@@ -656,7 +656,7 @@
           "price": "850",
           "type": "non-veg",
           "description": "Creamy malai kabab.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767696116/Tandoori_Vanjaram_w3ty52.jpg",
           "timeMinutes": 25,
           "rating": 4.5
         }
@@ -672,7 +672,7 @@
           "price": 80,
           "type": "veg",
           "description": "Garlic flavored naan.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767696116/Garlic_Naan_opdwku.jpg",
           "timeMinutes": 10,
           "rating": 4.3
         },
@@ -682,7 +682,7 @@
           "price": 50,
           "type": "veg",
           "description": "Soft butter naan.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767696116/Butter_Naan_px0nq2.jpg",
           "timeMinutes": 10,
           "rating": 4.2
         },
@@ -692,7 +692,7 @@
           "price": 45,
           "type": "veg",
           "description": "Plain naan bread.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767696116/Plain_Naan_ndz0dl.jpg",
           "timeMinutes": 10,
           "rating": 4.1
         },
@@ -702,7 +702,7 @@
           "price": 40,
           "type": "veg",
           "description": "Whole wheat tandoori roti.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767696115/Tandoori_Roti_hejofe.jpg",
           "timeMinutes": 10,
           "rating": 4.0
         },
@@ -712,7 +712,7 @@
           "price": 80,
           "type": "veg",
           "description": "Assorted Indian breads.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767698402/Paneer_Kulcha_mb5j20.jpg",
           "timeMinutes": 15,
           "rating": 4.4
         },
@@ -722,7 +722,7 @@
           "price":70,
           "type": "veg",
           "description": "Assorted Indian breads.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767698402/Lacha_Paratha_fd2cl6.jpg",
           "timeMinutes": 15,
           "rating": 4.4
         },
@@ -732,7 +732,7 @@
           "price": 80,
           "type": "veg",
           "description": "Assorted Indian breads.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767698401/Aloo_Paratha_sdnyxg.jpg",
           "timeMinutes": 15,
           "rating": 4.4
         },
@@ -742,7 +742,7 @@
           "price": 80,
           "type": "veg",
           "description": "Assorted Indian breads.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767698401/Masala_Kulcha_yuj3tn.jpg",
           "timeMinutes": 15,
           "rating": 4.4
         },
@@ -752,7 +752,7 @@
           "price": "",
           "type": "veg",
           "description": "Assorted Indian breads.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767698415/Vanjaram_Fry_ftde7u.jpg",
           "timeMinutes": 15,
           "rating": 4.4
         },
@@ -762,7 +762,7 @@
           "price": 80,
           "type": "veg",
           "description": "Assorted Indian breads.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767698415/Kashmir_Kulcha_mbguhj.jpg",
           "timeMinutes": 15,
           "rating": 4.4
         },
@@ -772,7 +772,7 @@
           "price":80,
           "type": "veg",
           "description": "Assorted Indian breads.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767698402/Rumali_Roti_fpdnur.jpg",
           "timeMinutes": 15,
           "rating": 4.4
         },
@@ -782,7 +782,7 @@
           "price": 40,
           "type": "veg",
           "description": "Assorted Indian breads.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767698586/pulka_fnh3by.jpg",
           "timeMinutes": 15,
           "rating": 4.4
         },
@@ -792,7 +792,7 @@
           "price": 249,
           "type": "veg",
           "description": "Assorted Indian breads.",
-          "image": "",
+          "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767698402/Bread_Basket_hjdbem.jpg",
           "timeMinutes": 15,
           "rating": 4.4
         }
@@ -801,81 +801,81 @@
      {
       "category": "Non-Veg Starters",
       "items": [
-        { "id": "NVS-001", "name": "Apollo Fish", "price": 339, "type": "non-veg", "description": "Crispy fried fish tossed in spicy sauce.", "image": "", "timeMinutes": 20, "rating": 4.5 },
-        { "id": "NVS-002", "name": "Loose Prawns", "price": 319, "type": "non-veg", "description": "Deep fried prawns starter.", "image": "", "timeMinutes": 20, "rating": 4.4 },
-        { "id": "NVS-003", "name": "Chicken Chilli", "price": 299, "type": "non-veg", "description": "Spicy chilli chicken.", "image": "", "timeMinutes": 20, "rating": 4.5 },
-        { "id": "NVS-004", "name": "Chicken 65", "price": 299, "type": "non-veg", "description": "South Indian style chicken 65.", "image": "", "timeMinutes": 20, "rating": 4.6 },
-        { "id": "NVS-005", "name": "Chicken Manchuria", "price": 299, "type": "non-veg", "description": "Chicken tossed in manchurian sauce.", "image": "", "timeMinutes": 20, "rating": 4.4 },
-        { "id": "NVS-006", "name": "Chicken Majestic", "price": 359, "type": "non-veg", "description": "Creamy spicy chicken majestic.", "image": "", "timeMinutes": 20, "rating": 4.6 },
-        { "id": "NVS-007", "name": "Dragon Chicken", "price": 329, "type": "non-veg", "description": "Crispy dragon-style chicken.", "image": "", "timeMinutes": 20, "rating": 4.5 },
-        { "id": "NVS-008", "name": "Chicken 555", "price": 339, "type": "non-veg", "description": "Spicy fried chicken starter.", "image": "", "timeMinutes": 20, "rating": 4.4 },
-        { "id": "NVS-009", "name": "Pepper Chicken", "price": 299, "type": "non-veg", "description": "Pepper-flavored chicken fry.", "image": "", "timeMinutes": 20, "rating": 4.5 },
-        { "id": "NVS-010", "name": "Szechuan Chicken", "price": 350, "type": "non-veg", "description": "Szechuan style spicy chicken.", "image": "", "timeMinutes": 20, "rating": 4.4 },
-        { "id": "NVS-011", "name": "Chicken Lollipop", "price": 330, "type": "non-veg", "description": "Fried chicken lollipop.", "image": "", "timeMinutes": 20, "rating": 4.6 },
-        { "id": "NVS-012", "name": "Chicken Wings", "price": 330, "type": "non-veg", "description": "Crispy chicken wings.", "image": "", "timeMinutes": 20, "rating": 4.4 },
-        { "id": "NVS-013", "name": "Spring Non-Veg Roll", "price": 249, "type": "non-veg", "description": "Non-veg spring roll.", "image": "", "timeMinutes": 15, "rating": 4.2 },
-        { "id": "NVS-014", "name": "Schezwan Lobster", "price": 699, "type": "non-veg", "description": "Lobster cooked in schezwan sauce.", "image": "", "timeMinutes": 30, "rating": 4.8 }
+        { "id": "NVS-001", "name": "Apollo Fish", "price": 339, "type": "non-veg", "description": "Crispy fried fish tossed in spicy sauce.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767699908/Apollo_Fish_p9eikm.jpg", "timeMinutes": 20, "rating": 4.5 },
+        { "id": "NVS-002", "name": "Loose Prawns", "price": 319, "type": "non-veg", "description": "Deep fried prawns starter.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767699940/Loose_Prawns_jmoy6z.jpg", "timeMinutes": 20, "rating": 4.4 },
+        { "id": "NVS-003", "name": "Chicken Chilli", "price": 299, "type": "non-veg", "description": "Spicy chilli chicken.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767699939/Chicken_Chilli_txigsh.jpg", "timeMinutes": 20, "rating": 4.5 },
+        { "id": "NVS-004", "name": "Chicken 65", "price": 299, "type": "non-veg", "description": "South Indian style chicken 65.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767699935/Chicken_65_k1a2d5.jpg", "timeMinutes": 20, "rating": 4.6 },
+        { "id": "NVS-005", "name": "Chicken Manchuria", "price": 299, "type": "non-veg", "description": "Chicken tossed in manchurian sauce.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767699934/Chicken_Manchuria_gqtlem.jpg", "timeMinutes": 20, "rating": 4.4 },
+        { "id": "NVS-006", "name": "Chicken Majestic", "price": 359, "type": "non-veg", "description": "Creamy spicy chicken majestic.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767699929/Chicken_Majestic_legxeo.jpg", "timeMinutes": 20, "rating": 4.6 },
+        { "id": "NVS-007", "name": "Dragon Chicken", "price": 329, "type": "non-veg", "description": "Crispy dragon-style chicken.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767699928/Dragon_Chicken_ctaepj.jpg", "timeMinutes": 20, "rating": 4.5 },
+        { "id": "NVS-008", "name": "Chicken 555", "price": 339, "type": "non-veg", "description": "Spicy fried chicken starter.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767699924/Chicken_555_wwrfld.jpg", "timeMinutes": 20, "rating": 4.4 },
+        { "id": "NVS-009", "name": "Pepper Chicken", "price": 299, "type": "non-veg", "description": "Pepper-flavored chicken fry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767699923/Pepper_Chicken_eqkqj8.jpg", "timeMinutes": 20, "rating": 4.5 },
+        { "id": "NVS-010", "name": "Szechuan Chicken", "price": 350, "type": "non-veg", "description": "Szechuan style spicy chicken.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767699921/Szechuan_Chicken_rumjni.jpg", "timeMinutes": 20, "rating": 4.4 },
+        { "id": "NVS-011", "name": "Chicken Lollipop", "price": 330, "type": "non-veg", "description": "Fried chicken lollipop.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767699916/Chicken_Lollipop_pliabi.jpg", "timeMinutes": 20, "rating": 4.6 },
+        { "id": "NVS-012", "name": "Chicken Wings", "price": 330, "type": "non-veg", "description": "Crispy chicken wings.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767699916/Chicken_Wings_to34gb.jpg", "timeMinutes": 20, "rating": 4.4 },
+        { "id": "NVS-013", "name": "Spring Non-Veg Roll", "price": 249, "type": "non-veg", "description": "Non-veg spring roll.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767699909/Spring_Non-Veg_Roll_tmdrmp.jpg", "timeMinutes": 15, "rating": 4.2 },
+        { "id": "NVS-014", "name": "Schezwan Lobster", "price": 699, "type": "non-veg", "description": "Lobster cooked in schezwan sauce.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767699909/Schezwan_Lobster_otmfgf.jpg", "timeMinutes": 30, "rating": 4.8 }
       ]
     },
     {
       "category": "Veg Starters",
       "items": [
-        { "id": "VS-001", "name": "Chilli Paneer", "price": 329, "type": "veg", "description": "Paneer tossed in chilli sauce.", "image": "", "timeMinutes": 15, "rating": 4.4 },
-        { "id": "VS-002", "name": "Veg Ball Hot & Spicy", "price": 289, "type": "veg", "description": "Spicy vegetable balls.", "image": "", "timeMinutes": 15, "rating": 4.2 },
-        { "id": "VS-003", "name": "Paneer 65", "price": 319, "type": "veg", "description": "Paneer 65 crispy starter.", "image": "", "timeMinutes": 15, "rating": 4.4 },
-        { "id": "VS-004", "name": "Paneer Manchuria", "price": 319, "type": "veg", "description": "Paneer in manchurian sauce.", "image": "", "timeMinutes": 15, "rating": 4.3 },
-        { "id": "VS-005", "name": "Schezwan Paneer", "price": 319, "type": "veg", "description": "Paneer in schezwan sauce.", "image": "", "timeMinutes": 15, "rating": 4.3 },
-        { "id": "VS-006", "name": "Chilli Mushroom", "price": 319, "type": "veg", "description": "Chilli mushroom starter.", "image": "", "timeMinutes": 15, "rating": 4.2 },
-        { "id": "VS-007", "name": "Mushroom 65", "price": 319, "type": "veg", "description": "Mushroom 65 crispy fry.", "image": "", "timeMinutes": 15, "rating": 4.2 },
-        { "id": "VS-008", "name": "Mushroom Manchuria", "price": 319, "type": "veg", "description": "Mushroom in manchurian sauce.", "image": "", "timeMinutes": 15, "rating": 4.2 },
-        { "id": "VS-009", "name": "Salt & Pepper Mushroom", "price": 319, "type": "veg", "description": "Salt and pepper mushroom fry.", "image": "", "timeMinutes": 15, "rating": 4.1 },
-        { "id": "VS-010", "name": "Babycorn", "price": 299, "type": "veg", "description": "Crispy fried babycorn.", "image": "", "timeMinutes": 15, "rating": 4.1 },
-        { "id": "VS-011", "name": "Chilli Babycorn", "price": 299, "type": "veg", "description": "Chilli babycorn.", "image": "", "timeMinutes": 15, "rating": 4.2 },
-        { "id": "VS-012", "name": "Babycorn Manchuria", "price": 299, "type": "veg", "description": "Babycorn manchurian.", "image": "", "timeMinutes": 15, "rating": 4.2 },
-        { "id": "VS-013", "name": "Crunchy Babycorn", "price": 299, "type": "veg", "description": "Crunchy fried babycorn.", "image": "", "timeMinutes": 15, "rating": 4.3 },
-        { "id": "VS-014", "name": "American Corn Fritters", "price": 289, "type": "veg", "description": "Corn fritters starter.", "image": "", "timeMinutes": 15, "rating": 4.1 },
-        { "id": "VS-015", "name": "Spring Veg Roll", "price": 289, "type": "veg", "description": "Vegetable spring roll.", "image": "", "timeMinutes": 15, "rating": 4.2 }
+        { "id": "VS-001", "name": "Chilli Paneer", "price": 329, "type": "veg", "description": "Paneer tossed in chilli sauce.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767701315/Chilli_Paneer_srw9hy.jpg", "timeMinutes": 15, "rating": 4.4 },
+        { "id": "VS-002", "name": "Veg Ball Hot & Spicy", "price": 289, "type": "veg", "description": "Spicy vegetable balls.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767701313/Veg_Ball_Hot_Spicy_amt69y.jpg", "timeMinutes": 15, "rating": 4.2 },
+        { "id": "VS-003", "name": "Paneer 65", "price": 319, "type": "veg", "description": "Paneer 65 crispy starter.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767701320/Paneer_65_odcouc.jpg", "timeMinutes": 15, "rating": 4.4 },
+        { "id": "VS-004", "name": "Paneer Manchuria", "price": 319, "type": "veg", "description": "Paneer in manchurian sauce.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767701303/Paneer_Manchuria_gbzwkr.jpg", "timeMinutes": 15, "rating": 4.3 },
+        { "id": "VS-005", "name": "Schezwan Paneer", "price": 319, "type": "veg", "description": "Paneer in schezwan sauce.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767701324/Schezwan_Paneer_g0uat2.jpg", "timeMinutes": 15, "rating": 4.3 },
+        { "id": "VS-006", "name": "Chilli Mushroom", "price": 319, "type": "veg", "description": "Chilli mushroom starter.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767701308/Chilli_Mushroom_gnl9zm.jpg", "timeMinutes": 15, "rating": 4.2 },
+        { "id": "VS-007", "name": "Mushroom 65", "price": 319, "type": "veg", "description": "Mushroom 65 crispy fry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767701304/Mushroom_65_vkc1lw.jpg", "timeMinutes": 15, "rating": 4.2 },
+        { "id": "VS-008", "name": "Mushroom Manchuria", "price": 319, "type": "veg", "description": "Mushroom in manchurian sauce.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767701299/Mushroom_Manchuria_i9yrln.jpg", "timeMinutes": 15, "rating": 4.2 },
+        { "id": "VS-009", "name": "Salt & Pepper Mushroom", "price": 319, "type": "veg", "description": "Salt and pepper mushroom fry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767701298/Salt_Pepper_Mushroom_nntpun.jpg", "timeMinutes": 15, "rating": 4.1 },
+        { "id": "VS-010", "name": "Babycorn", "price": 299, "type": "veg", "description": "Crispy fried babycorn.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767701291/Babycorn_u8ct0s.jpg", "timeMinutes": 15, "rating": 4.1 },
+        { "id": "VS-011", "name": "Chilli Babycorn", "price": 299, "type": "veg", "description": "Chilli babycorn.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767701310/Chilli_Babycorn_i5jmaf.jpg", "timeMinutes": 15, "rating": 4.2 },
+        { "id": "VS-012", "name": "Babycorn Manchuria", "price": 299, "type": "veg", "description": "Babycorn manchurian.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767701319/Babycorn_manchuria_tkejnz.jpg", "timeMinutes": 15, "rating": 4.2 },
+        { "id": "VS-013", "name": "Crunchy Babycorn", "price": 299, "type": "veg", "description": "Crunchy fried babycorn.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767701290/Crunchy_Babycorn_skis4e.jpg", "timeMinutes": 15, "rating": 4.3 },
+        { "id": "VS-014", "name": "American Corn Fritters", "price": 289, "type": "veg", "description": "Corn fritters starter.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767701289/American_Corn_Fritters_po1mgn.jpg", "timeMinutes": 15, "rating": 4.1 },
+        { "id": "VS-015", "name": "Spring Veg Roll", "price": 289, "type": "veg", "description": "Vegetable spring roll.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767701290/Spring_Veg_Rol_i8thgi.jpg", "timeMinutes": 15, "rating": 4.2 }
       ]
     },
     {
       "category": "Non-Veg Curries",
       "items": [
-        { "id": "NVC-001", "name": "Butter Chicken", "price": 310, "type": "non-veg", "description": "Creamy butter chicken.", "image": "", "timeMinutes": 25, "rating": 4.6 },
-        { "id": "NVC-002", "name": "Mughlai Chicken Curry", "price": 310, "type": "non-veg", "description": "Rich mughlai chicken curry.", "image": "", "timeMinutes": 25, "rating": 4.5 },
-        { "id": "NVC-003", "name": "Andhra Chicken Curry", "price": 280, "type": "non-veg", "description": "Spicy Andhra chicken curry.", "image": "", "timeMinutes": 25, "rating": 4.4 },
-        { "id": "NVC-004", "name": "Kadai Chicken", "price": 310, "type": "non-veg", "description": "Kadai style chicken curry.", "image": "", "timeMinutes": 25, "rating": 4.5 },
-        { "id": "NVC-005", "name": "Chicken Tikka Masala", "price": 310, "type": "non-veg", "description": "Chicken tikka masala curry.", "image": "", "timeMinutes": 25, "rating": 4.6 },
-        { "id": "NVC-006", "name": "Boneless Chicken", "price": 310, "type": "non-veg", "description": "Boneless chicken curry.", "image": "", "timeMinutes": 25, "rating": 4.5 },
-        { "id": "NVC-007", "name": "Vanjaram Fry", "price": 499, "type": "non-veg", "description": "Vanjaram fish fry.", "image": "", "timeMinutes": 25, "rating": 4.6 },
+        { "id": "NVC-001", "name": "Butter Chicken", "price": 310, "type": "non-veg", "description": "Creamy butter chicken.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702698/Butter_Chicken_wtvpmp.jpg", "timeMinutes": 25, "rating": 4.6 },
+        { "id": "NVC-002", "name": "Mughlai Chicken Curry", "price": 310, "type": "non-veg", "description": "Rich mughlai chicken curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702697/Mughlai_Chicken_Curry_facil0.jpg", "timeMinutes": 25, "rating": 4.5 },
+        { "id": "NVC-003", "name": "Andhra Chicken Curry", "price": 280, "type": "non-veg", "description": "Spicy Andhra chicken curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702741/Andhra_Chicken_Curry_lzw7av.jpg", "timeMinutes": 25, "rating": 4.4 },
+        { "id": "NVC-004", "name": "Kadai Chicken", "price": 310, "type": "non-veg", "description": "Kadai style chicken curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702746/Kadai_Chicken_cmpehf.jpg", "timeMinutes": 25, "rating": 4.5 },
+        { "id": "NVC-005", "name": "Chicken Tikka Masala", "price": 310, "type": "non-veg", "description": "Chicken tikka masala curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702737/Chicken_Tikka_Masala_wvj6po.jpg", "timeMinutes": 25, "rating": 4.6 },
+        { "id": "NVC-006", "name": "Boneless Chicken", "price": 310, "type": "non-veg", "description": "Boneless chicken curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702734/Boneless_Chicken_gppbwb.jpg", "timeMinutes": 25, "rating": 4.5 },
+        { "id": "NVC-007", "name": "Vanjaram Fry", "price": 499, "type": "non-veg", "description": "Vanjaram fish fry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702723/Vanjaram_Fry_es9be0.jpg", "timeMinutes": 25, "rating": 4.6 },
         { "id": "NVC-008", "name": "Natukodi Curry", "price": 349, "type": "non-veg", "description": "Country chicken curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1766749882/natukodi-pulusu_elzaoj.png", "timeMinutes": 30, "rating": 4.6 },
-        { "id": "NVC-009", "name": "Chicken Curry", "price": 349, "type": "non-veg", "description": "Traditional chicken curry.", "image": "", "timeMinutes": 25, "rating": 4.4 },
-        { "id": "NVC-010", "name": "Prawn Curry", "price": 349, "type": "non-veg", "description": "Spicy prawn curry.", "image": "", "timeMinutes": 25, "rating": 4.5 },
-        { "id": "NVC-011", "name": "Crab Curry", "price": 349, "type": "non-veg", "description": "Crab curry in spicy gravy.", "image": "", "timeMinutes": 30, "rating": 4.6 },
+        { "id": "NVC-009", "name": "Chicken Curry", "price": 349, "type": "non-veg", "description": "Traditional chicken curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702730/Chicken_Curry_xyk2rn.jpg", "timeMinutes": 25, "rating": 4.4 },
+        { "id": "NVC-010", "name": "Prawn Curry", "price": 349, "type": "non-veg", "description": "Spicy prawn curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702729/Prawn_Curry_l3unvi.jpg", "timeMinutes": 25, "rating": 4.5 },
+        { "id": "NVC-011", "name": "Crab Curry", "price": 349, "type": "non-veg", "description": "Crab curry in spicy gravy.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702740/Crab_Curry_jf6194.jpg", "timeMinutes": 30, "rating": 4.6 },
         { "id": "NVC-012", "name": "Egg Curry", "price": 299, "type": "non-veg", "description": "Egg curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1766749883/egg_vendichepa_ajmgy2.png", "timeMinutes": 20, "rating": 4.2 },
         { "id": "NVC-013", "name": "Fish Pulusu", "price": 399, "type": "non-veg", "description": "Andhra style fish pulusu.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1766749882/fish-pulusu_q6f6tx.png", "timeMinutes": 25, "rating": 4.5 },
-        { "id": "NVC-014", "name": "Liver Fry", "price": 299, "type": "non-veg", "description": "Spicy liver fry.", "image": "", "timeMinutes": 20, "rating": 4.3 },
-        { "id": "NVC-015", "name": "Guddu Dry Dish", "price": 349, "type": "non-veg", "description": "Egg dry dish.", "image": "", "timeMinutes": 20, "rating": 4.2 },
-        { "id": "NVC-016", "name": "Mutton Gongura", "price": 499, "type": "non-veg", "description": "Mutton cooked with gongura.", "image": "", "timeMinutes": 35, "rating": 4.7 },
-        { "id": "NVC-017", "name": "Chicken Gongura", "price": 349, "type": "non-veg", "description": "Chicken gongura curry.", "image": "", "timeMinutes": 30, "rating": 4.6 },
-        { "id": "NVC-018", "name": "Prawn Gongura", "price": 349, "type": "non-veg", "description": "Prawn gongura curry.", "image": "", "timeMinutes": 30, "rating": 4.6 },
-        { "id": "NVC-019", "name": "Mutton Fry", "price": 599, "type": "non-veg", "description": "Spicy mutton fry.", "image": "", "timeMinutes": 35, "rating": 4.7 },
+        { "id": "NVC-014", "name": "Liver Fry", "price": 299, "type": "non-veg", "description": "Spicy liver fry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702716/Liver_Fry_vaeumy.jpg", "timeMinutes": 20, "rating": 4.3 },
+        { "id": "NVC-015", "name": "Guddu Dry Dish", "price": 349, "type": "non-veg", "description": "Egg dry dish.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702712/Guddu_Dry_Dish_gacop1.jpg", "timeMinutes": 20, "rating": 4.2 },
+        { "id": "NVC-016", "name": "Mutton Gongura", "price": 499, "type": "non-veg", "description": "Mutton cooked with gongura.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702709/Mutton_Gongura_x0thvz.jpg", "timeMinutes": 35, "rating": 4.7 },
+        { "id": "NVC-017", "name": "Chicken Gongura", "price": 349, "type": "non-veg", "description": "Chicken gongura curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702705/Chicken_Gongura_mupxtu.jpg", "timeMinutes": 30, "rating": 4.6 },
+        { "id": "NVC-018", "name": "Prawn Gongura", "price": 349, "type": "non-veg", "description": "Prawn gongura curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702703/Prawn_Gongura_bynzaw.jpg", "timeMinutes": 30, "rating": 4.6 },
+        { "id": "NVC-019", "name": "Mutton Fry", "price": 599, "type": "non-veg", "description": "Spicy mutton fry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767702698/Mutton_Fry_kgduig.jpg", "timeMinutes": 35, "rating": 4.7 },
         { "id": "NVC-020", "name": "Chicken Fry", "price": 349, "type": "non-veg", "description": "Chicken fry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1766749883/chickenFry_lhlxps.png", "timeMinutes": 25, "rating": 4.4 }
       ]
     },
     {
       "category": "Veg Curries",
       "items": [
-        { "id": "VC-001", "name": "Paneer Butter Masala", "price": 249, "type": "veg", "description": "Creamy paneer butter masala.", "image": "", "timeMinutes": 20, "rating": 4.5 },
-        { "id": "VC-002", "name": "Kaju Tomato", "price": 249, "type": "veg", "description": "Cashew tomato curry.", "image": "", "timeMinutes": 20, "rating": 4.4 },
-        { "id": "VC-003", "name": "Kaju Paneer", "price": 249, "type": "veg", "description": "Cashew paneer curry.", "image": "", "timeMinutes": 20, "rating": 4.4 },
-        { "id": "VC-004", "name": "Methi Chaman", "price": 249, "type": "veg", "description": "Methi flavored paneer curry.", "image": "", "timeMinutes": 20, "rating": 4.3 },
-        { "id": "VC-005", "name": "Mushroom Masala", "price": 240, "type": "veg", "description": "Mushroom masala curry.", "image": "", "timeMinutes": 20, "rating": 4.2 },
-        { "id": "VC-006", "name": "Babycorn Masala", "price": 240, "type": "veg", "description": "Babycorn masala curry.", "image": "", "timeMinutes": 20, "rating": 4.2 },
-        { "id": "VC-007", "name": "Mixed Veg Curry", "price": 249, "type": "veg", "description": "Mixed vegetable curry.", "image": "", "timeMinutes": 20, "rating": 4.1 },
-        { "id": "VC-008", "name": "Palak Paneer", "price": 249, "type": "veg", "description": "Spinach paneer curry.", "image": "", "timeMinutes": 20, "rating": 4.4 },
-        { "id": "VC-009", "name": "Aloo Gobi Curry", "price": 210, "type": "veg", "description": "Potato cauliflower curry.", "image": "", "timeMinutes": 20, "rating": 4.1 },
-        { "id": "VC-010", "name": "Dal Fry", "price": 210, "type": "veg", "description": "Dal fry.", "image": "", "timeMinutes": 15, "rating": 4.2 },
-        { "id": "VC-011", "name": "Dal Tadaka", "price": 210, "type": "veg", "description": "Dal tadka.", "image": "", "timeMinutes": 15, "rating": 4.3 }
+        { "id": "VC-001", "name": "Paneer Butter Masala", "price": 249, "type": "veg", "description": "Creamy paneer butter masala.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767765860/Paneer_Butter_Masala_hnyz2c.jpg", "timeMinutes": 20, "rating": 4.5 },
+        { "id": "VC-002", "name": "Kaju Tomato", "price": 249, "type": "veg", "description": "Cashew tomato curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767765861/Kaju_Tomato_yrpr0k.jpg", "timeMinutes": 20, "rating": 4.4 },
+        { "id": "VC-003", "name": "Kaju Paneer", "price": 249, "type": "veg", "description": "Cashew paneer curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767765860/Kaju_Paneer_ele8bd.jpg", "timeMinutes": 20, "rating": 4.4 },
+        { "id": "VC-004", "name": "Methi Chaman", "price": 249, "type": "veg", "description": "Methi flavored paneer curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767765860/Methi_Chaman_vruqad.jpg", "timeMinutes": 20, "rating": 4.3 },
+        { "id": "VC-005", "name": "Mushroom Masala", "price": 240, "type": "veg", "description": "Mushroom masala curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767765861/Mushroom_Masala_eepdb7.jpg", "timeMinutes": 20, "rating": 4.2 },
+        { "id": "VC-006", "name": "Babycorn Masala", "price": 240, "type": "veg", "description": "Babycorn masala curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767765861/Babycorn_Masala_elayyk.jpg", "timeMinutes": 20, "rating": 4.2 },
+        { "id": "VC-007", "name": "Mixed Veg Curry", "price": 249, "type": "veg", "description": "Mixed vegetable curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767765861/Mixed_Veg_Curry_pdlxzm.jpg", "timeMinutes": 20, "rating": 4.1 },
+        { "id": "VC-008", "name": "Palak Paneer", "price": 249, "type": "veg", "description": "Spinach paneer curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767765861/Palak_Paneer_sf1ghy.jpg", "timeMinutes": 20, "rating": 4.4 },
+        { "id": "VC-009", "name": "Aloo Gobi Curry", "price": 210, "type": "veg", "description": "Potato cauliflower curry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767765860/Aloo_Gobi_Curry_gmxei5.jpg", "timeMinutes": 20, "rating": 4.1 },
+        { "id": "VC-010", "name": "Dal Fry", "price": 210, "type": "veg", "description": "Dal fry.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767765860/dal-fry1_joz5wm.jpg", "timeMinutes": 15, "rating": 4.2 },
+        { "id": "VC-011", "name": "Dal Tadaka", "price": 210, "type": "veg", "description": "Dal tadka.", "image": "https://res.cloudinary.com/dcnwphnzn/image/upload/v1767765860/Dal_Tadaka_mkw4ry.jpg", "timeMinutes": 15, "rating": 4.3 }
       ]
     }
   

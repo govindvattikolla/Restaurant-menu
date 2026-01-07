@@ -391,3 +391,17 @@ body {
   }
 }
 
+.card-bottom{
+  display:flex;
+  justify-content: space-between;
+}
+
+.add-cart-btn1{
+  background-color: #802319;
+  color:#fff;
+  font-size: 16px;
+  padding: 2px 6px;
+  border-radius: 10px;
+  z-index: 99;
+}
+

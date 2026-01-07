@@ -1,12 +1,17 @@
-import React, { useState, useEffect } from "react";
+import  { useState, useEffect } from "react";
 import menuData from "../items.json";
 import "./menu.css";
 import logo from "../assets/image.png";
 import { Link } from "react-router-dom";
 import { useCart } from "../context/CartContext";
 
+
 export default function Menu() {
   const { addToCart } = useCart();
+
+  const [showPopup, setShowPopup] = useState(false);
+  const [addedItem, setAddedItem] = useState(null);
+
 
   const [activeCategory, setActiveCategory] = useState("All");
   const [searchText, setSearchText] = useState("");
@@ -47,7 +52,7 @@ export default function Menu() {
   return (
     
     <div className="menu-container">
-      <div class="fixed-bg"></div>
+      <div className="fixed-bg"></div>
   
       <div className="menu-header">
         <img src={logo} alt="logo" />
@@ -100,8 +105,19 @@ export default function Menu() {
                   <span className="menu-info">⏱ {item.timeMinutes} min</span>
                   <span className="menu-info">⭐ {item.rating}</span>
                 </div>
-
+                <div className="card-bottom">
                 <p className="menu-price">₹{item.price}</p>
+                <button className="add-cart-btn1"
+                     onClick={(event) => {
+                      event.preventDefault();   
+                      event.stopPropagation();  
+                      addToCart(item);       
+                      setAddedItem(item);
+                      setShowPopup(true);
+                  
+                      setTimeout(() => setShowPopup(false), 2500);
+                    }}>+</button>
+                 </div>
               </div>
                </Link>
 
@@ -159,6 +175,17 @@ export default function Menu() {
           Drop Your Feedback
         </a>
       </div>
+
+            {showPopup && addedItem && (
+        <div className="cart-popup">
+          <span>✔ {addedItem.name} added to cart</span>
+            
+          <Link to="/cart" className="goto-cart-btn">
+            Go to Cart
+          </Link>
+        </div>
+      )}
+      
     </div>
   );
 }
